@@ -1,12 +1,11 @@
 # Site settings
-title: Game Developer
-email: your-email@domain.com
+title: Nile Imtiaz
+email: nile.imtiaz01@gmail.com
 description: > # keep this and put description below
-  Programmer and Designer
-url: "https://yourdomain.com" # the base hostname & protocol for your site
-linkedin_url: "https://www.linkedin.com/in/gamingportfolio"
-github_username: gamingportfolio
-twitter_username: gamingportfolio
+  Game Design + Development // UI + Graphic Design // Character Concept Art 
+url: "https://nile-imtiaz.github.io/portfolio/" # the base hostname & protocol for your site
+linkedin_url: "https://www.linkedin.com/in/nile-imtiaz/"
+itchio_url: "https://ariverinegypt.itch.io/"
 footer_text: "This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
 
 # Build settings
